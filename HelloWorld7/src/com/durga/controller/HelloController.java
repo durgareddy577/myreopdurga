@@ -9,6 +9,10 @@ public class HelloController
 	   System.out.println("eat");
 
 	   System.out.println("wanter");
+
        System.out.println("durga");
+
+	   System.out.println("Balu");
+
    }
 }
